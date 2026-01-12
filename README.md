@@ -36,3 +36,30 @@ The wheel rotates smoothly, pauses on hover, and dynamically changes colors base
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
+Open index.html in any modern browser.
+
+📸 Preview
+
+Hover over the wheel to pause it and move your mouse to see real-time color changes.
+
+(Add screenshots or GIF here if you want)
+
+🌟 Future Improvements
+
+Click-to-spin control
+
+Mobile touch support
+
+Speed control slider
+
+Dark / Light mode toggle
+
+👤 Author
+
+Jitendra Gaherwar
+Beginner Web Developer 🚀
+Learning by building real projects.
+
+⭐ Support
+
+If you like this project, don’t forget to star ⭐ the repository!
