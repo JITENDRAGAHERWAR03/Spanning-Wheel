@@ -41,8 +41,8 @@ Open index.html in any modern browser.
 📸 Preview
 
 Hover over the wheel to pause it and move your mouse to see real-time color changes.
+<img width="563" height="390" alt="image" src="https://github.com/user-attachments/assets/b71dc8bb-0594-4cc4-bd19-646399fe6815" />
 
-(Add screenshots or GIF here if you want)
 
 🌟 Future Improvements
 
